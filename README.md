@@ -74,10 +74,8 @@ s = np.concatenate([np.repeat(manchester(b,i), points//2) for i,b in enumerate(d
 plot_signal(t, s, "Manchester Encoding", (-1.5, 1.5), data)
 ```
 # Output Waveform
-```
 <img width="1021" height="393" alt="image" src="https://github.com/user-attachments/assets/85417f3d-90f6-4559-aa94-d0e913544804" />
 
-```
 # Results
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
 
