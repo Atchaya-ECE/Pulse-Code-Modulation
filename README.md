@@ -1,3 +1,5 @@
+# Reg.no : 212224060031
+# Name   : V.Atchaya
 # Pulse-Code-Modulation and Delta Modulation
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
