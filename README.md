@@ -174,7 +174,8 @@ Binary Codes for Samples: ['100', '111', '110', '010', '000', '100', '111', '110
 
 # Delta Modulatio Waveform
 <img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/98952a4e-5f68-4d44-a257-49eceb248104" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/98952a4e-5f68-4d44-a257-49eceb248104" />
+<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/9c0162f3-bc73-4f36-a7ff-4be0a3bea2e0" />
+
 
 
 ```
@@ -186,7 +187,8 @@ Delta Modulated Bit Stream:
 
 
 <img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/afda6acf-4158-4493-8b0c-17ce854c6396" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/afda6acf-4158-4493-8b0c-17ce854c6396" />
+<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/b82b45b2-fec8-4b89-96c0-c282cf57b692" />
+
 
 # Results
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
