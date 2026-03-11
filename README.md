@@ -4,7 +4,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PCM, and DM.
 # Tools required
- * computer with google collab
+ * computer with google colab
 # Program
 ```
 import numpy as np
