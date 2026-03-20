@@ -160,37 +160,10 @@ plt.show()
 
 # Output Waveform
 # Pulse-Code-Modulation Waveform
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/e88c82a0-74d1-45b1-aa38-d9212b305717" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/0222a369-4fc1-40d8-a018-9d9b4acaf208" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/cf68ea0f-c1ed-4101-af0f-fe69538af01b" />
-
-
-
-```
-Binary Codes for Samples: ['100', '111', '110', '010', '000', '100', '111', '110', '010', '000', '100', '111', '110', '010', '000', '100', '111', '110', '010', '000']
-```
-
-
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/6597b3f0-0606-4043-9387-c0131c8b2101" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/7a39bd79-f047-44e4-92f6-92739fc08282" />
+<img width="976" height="887" alt="image" src="https://github.com/user-attachments/assets/1a6e44fe-e8d7-4096-8bf2-2386bc1e4e14" />
 
 # Delta Modulatio Waveform
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/98952a4e-5f68-4d44-a257-49eceb248104" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/9c0162f3-bc73-4f36-a7ff-4be0a3bea2e0" />
-
-
-
-```
-Delta Modulated Bit Stream:
-[1 1 1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0
- 0 0 0 0 0 0 1 0 1 0 1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1
- 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 1 1]
-```
-
-
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/afda6acf-4158-4493-8b0c-17ce854c6396" />
-<img width="711" height="393" alt="image" src="https://github.com/user-attachments/assets/b82b45b2-fec8-4b89-96c0-c282cf57b692" />
-
+<img width="989" height="789" alt="image" src="https://github.com/user-attachments/assets/f2620e74-d00f-4b9c-ad9a-155959bdfd08" />
 
 # Results
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
